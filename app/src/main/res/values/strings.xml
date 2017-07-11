@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Map App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_data_found">No data found</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="temperature">Temperature \t</string>
+    <string name="humidity">Humidity \t</string>
+</resources>
